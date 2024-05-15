@@ -1,7 +1,7 @@
 # Rclone-Sync-SaUCE
 Use Rclone sync to shrink down some of the sauces to fit on a smaller USB drive.
 Resauce the OnesaUCE with Rclone
-Use Rclone sync to shrink down some of the sauces to fit on a smaller USB drive. These instructions are written for Windows but rclone sync works in other OSes too. This is written for One Sauce v2 but can be easily adjusted to work with other rom/emulator builds.
+These instructions are written for Windows but rclone sync works in other OSes too. This is written for One Sauce v2 but can be easily adjusted to work with other rom/emulator builds.
 
 TLDR: Basically create a Rclone filter list to use with "rclone sync" command to filter out roms and their associated artwork/videos.
 
