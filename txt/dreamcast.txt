@@ -1,0 +1,36 @@
+# Sega Dreamcast
++ Sega Dreamcast/**/Bangai-O**
++ Sega Dreamcast/**/Bomberman Online**
++ Sega Dreamcast/**/Bust-A-Move 4**
++ Sega Dreamcast/**/Capcom vs. SNK 2 - Millionaire Fighting 2001**
+- Sega Dreamcast/**/Centipede**
++ Sega Dreamcast/**/Dead or Alive 2 - Limited Edition**
+- Sega Dreamcast/**/Ecco the Dolphin - Defender of the Future**
++ Sega Dreamcast/**/Fatal Fury - Mark of the Wolves**
+- Sega Dreamcast/**/Frogger 2 - Swampy's Revenge**
++ Sega Dreamcast/**/Gauntlet Legends**
++ Sega Dreamcast/**/Grand Theft Auto 2**
++ Sega Dreamcast/**/King of Fighters 2000, The**
++ Sega Dreamcast/**/Ms. Pac-Man - Maze Madness**
++ Sega Dreamcast/**/Namco Museum**
++ Sega Dreamcast/**/NBA Hoopz**
++ Sega Dreamcast/**/NCAA College Football 2K2 - Road to the Rose Bowl**
++ Sega Dreamcast/**/NFL 2K2**
+- Sega Dreamcast/**/NFL Blitz 2000**
++ Sega Dreamcast/**/NFL Blitz 2001**
+- Sega Dreamcast/**/Prince of Persia - Arabian Nights**
++ Sega Dreamcast/**/Puyo Puyo 4**
++ Sega Dreamcast/**/Puyo Puyo Fever**
+- Sega Dreamcast/**/Rayman 2 - The Great Escape**
+- Sega Dreamcast/**/Rez**
+- Sega Dreamcast/**/Samba de Amigo**
++ Sega Dreamcast/**/Samba de Amigo - Ver. 2000**
++ Sega Dreamcast/**/Sonic Adventure 2**
++ Sega Dreamcast/**/SoulCalibur**
++ Sega Dreamcast/**/Street Fighter Alpha 3 - Saikyo Dojo**
++ Sega Dreamcast/**/Street Fighter III - 3rd Strike - Fight for the Future**
++ Sega Dreamcast/**/Street Fighter III - Double Impact**
++ Sega Dreamcast/**/Tetris 4D**
++ Sega Dreamcast/**/Virtua Fighter 3tb**
++ Sega Dreamcast/**/Who Wants to Be a Millionaire**
++ Sega Dreamcast/**/WWF Royal Rumble**

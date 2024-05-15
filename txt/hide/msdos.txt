@@ -1,0 +1,105 @@
+# msdos
+- Microsoft MS-DOS/**/4-D Boxing (1991)**
+- Microsoft MS-DOS/**/After Burner II (1989)**
+- Microsoft MS-DOS/**/Alien Syndrome (1989)**
+- Microsoft MS-DOS/**/Aquanoid (1992)**
+- Microsoft MS-DOS/**/Bananoid (1989)**
+- Microsoft MS-DOS/**/Battle Chess (1988)**
+- Microsoft MS-DOS/**/Beats of Rage (2003)**
+- Microsoft MS-DOS/**/Below the Root (1984)**
++ Microsoft MS-DOS/**/Blackthorne (1994)**
+- Microsoft MS-DOS/**/Blake Stone -  Aliens of Gold (1993)**
+- Microsoft MS-DOS/**/Blake Stone -  Planet Strike (1994)**
+- Microsoft MS-DOS/**/Blood Money (1990)**
+- Microsoft MS-DOS/**/Boulder Dash (1984)**
+- Microsoft MS-DOS/**/Bubble Bobble (1988)**
+- Microsoft MS-DOS/**/Budokan The Martial Spirit (1989)**
+- Microsoft MS-DOS/**/Catacomb 3-D (1992)**
++ Microsoft MS-DOS/**/cheats**
+- Microsoft MS-DOS/**/Clone Invaders (1989)**
+- Microsoft MS-DOS/**/Commander Keen -  Keen Dreams (1993)**
+- Microsoft MS-DOS/**/Commander Keen 1 -  Marooned on Mars (1990)**
+- Microsoft MS-DOS/**/Commander Keen 10 - Mirror Menace (2013)**
+- Microsoft MS-DOS/**/Commander Keen 11 - Zoltan's Revenge (2012)**
+- Microsoft MS-DOS/**/Commander Keen 2 -  The Earth Explodes (1990)**
+- Microsoft MS-DOS/**/Commander Keen 3 -  Keen Must Die! (1990)**
+- Microsoft MS-DOS/**/Commander Keen 4 -  Secret of the Oracle (1991)**
+- Microsoft MS-DOS/**/Commander Keen 5 -  The Armageddon Machine (1991)**
+- Microsoft MS-DOS/**/Commander Keen 6 -  Aliens Ate My Baby Sitter! (1991)**
+- Microsoft MS-DOS/**/Commander Keen 7 - The Keys of Krodacia (2006)**
+- Microsoft MS-DOS/**/Commander Keen 8 - Dead in the Desert (2009)**
+- Microsoft MS-DOS/**/Commander Keen 9 - Battle of the Brains (2011)**
+- Microsoft MS-DOS/**/Conan -  The Cimmerian (1991)**
++ Microsoft MS-DOS/**/config**
+- Microsoft MS-DOS/**/Crazy Cars 3 (1992)**
+- Microsoft MS-DOS/**/Death Bringer (1988)**
+- Microsoft MS-DOS/**/Demon Stalkers (1988)**
++ Microsoft MS-DOS/**/DOOM II (1994)**
+- Microsoft MS-DOS/**/Duke Nukem 3D (1996)**
+- Microsoft MS-DOS/**/Dungeon Master (1989)**
+- Microsoft MS-DOS/**/Dyna Blaster (1990)**
+- Microsoft MS-DOS/**/Escape from the Planet of the Robot Monsters (1990)**
+- Microsoft MS-DOS/**/Extreme Rise of the Triad (1995)**
+- Microsoft MS-DOS/**/Eye of the Beholder (1991)**
+- Microsoft MS-DOS/**/Eye of the Beholder II - The Legend of Darkmoon (1991)**
+- Microsoft MS-DOS/**/Eye of the Beholder III - Assault on Myth Drannor (1993)**
+- Microsoft MS-DOS/**/Fire King (1990)**
+- Microsoft MS-DOS/**/Flashback -  The Quest for Identity (1993)**
+- Microsoft MS-DOS/**/Gauntlet II (1989)**
+- Microsoft MS-DOS/**/Grand Prix Unlimited (1992)**
+- Microsoft MS-DOS/**/Grand Theft Auto (1997)**
+- Microsoft MS-DOS/**/Great Giana Sisters (1987)**
+- Microsoft MS-DOS/**/Halls of the Dead - Faery Tale Adventure II (1997)**
+- Microsoft MS-DOS/**/Hard Drivin' (1990)**
+- Microsoft MS-DOS/**/Hard Drivin' II (1990)**
++ Microsoft MS-DOS/**/Heretic (1994)**
++ Microsoft MS-DOS/**/Hexen -  Beyond Heretic (1995)**
+- Microsoft MS-DOS/**/Hugo 2 - Whodunit (1991)**
+- Microsoft MS-DOS/**/Hugo 3 - Jungle of Doom (1992)**
+- Microsoft MS-DOS/**/Hugo's House of Horrors (1990)**
++ Microsoft MS-DOS/**/Jazz Jackrabbit (1994)**
+- Microsoft MS-DOS/**/Jetpack (1993)**
++ Microsoft MS-DOS/**/King's Quest I - Quest for the Crown (1984)**
++ Microsoft MS-DOS/**/King's Quest II - Romancing the Throne (1985)**
++ Microsoft MS-DOS/**/King's Quest III - To Heir is Human (1986)**
++ Microsoft MS-DOS/**/King's Quest IV - The Perils of Rosella (1988)**
++ Microsoft MS-DOS/**/King's Quest V - Absence Makes the Heart Go Yonder (1990)**
++ Microsoft MS-DOS/**/King's Quest VI - Heir Today Gone Tomorrow (1992)**
+- Microsoft MS-DOS/**/Laura Bow 1 - The Colonel's Bequest (1989)**
+- Microsoft MS-DOS/**/Legend of Kyrandia Book 1 (1992)**
+- Microsoft MS-DOS/**/Legend of Kyrandia Book 2 - The Hand of Fate (1993)**
++ Microsoft MS-DOS/**/Lemmings (1991)**
++ Microsoft MS-DOS/**/mapper-0.74.map**
+- Microsoft MS-DOS/**/MegaRace (1993)**
+- Microsoft MS-DOS/**/Mice Men (1992)**
+- Microsoft MS-DOS/**/Ms. Pac PC (1995)**
+- Microsoft MS-DOS/**/Ms. Pac-Man (1983)**
+- Microsoft MS-DOS/**/Oh No! More Lemmings (1992)**
+- Microsoft MS-DOS/**/Pac PC 2 (1997)**
+- Microsoft MS-DOS/**/Pac-Man (1983)**
+- Microsoft MS-DOS/**/PC Bert (1997)**
++ Microsoft MS-DOS/**/Prince of Persia (1990)**
++ Microsoft MS-DOS/**/Prince of Persia 2 -  The Shadow & The Flame (1993)**
++ Microsoft MS-DOS/**/retroarch.cfg**
+- Microsoft MS-DOS/**/Rick Dangerous (1989)**
+- Microsoft MS-DOS/**/Rick Dangerous 2 (1990)**
+- Microsoft MS-DOS/**/Rise of the Triad -  Dark War (1994)**
++ Microsoft MS-DOS/**/Scorched Earth (1991)**
++ Microsoft MS-DOS/**/Sid Meier's Railroad Tycoon (1990)**
+- Microsoft MS-DOS/**/Spear of Destiny (1992)**
+- Microsoft MS-DOS/**/Spear of Destiny Mission 2 - Return to Danger (1994)**
+- Microsoft MS-DOS/**/Spear of Destiny Mission 3 - Ultimate Challenge (1994)**
+- Microsoft MS-DOS/**/Street Rod (1989)**
+- Microsoft MS-DOS/**/Street Rod 2 The Next Generation (1991)**
++ Microsoft MS-DOS/**/Stunts (1990)**
+- Microsoft MS-DOS/**/Test Drive II -  The Collection (1990)**
+- Microsoft MS-DOS/**/Test Drive III The Passion (1990)**
++ Microsoft MS-DOS/**/The Ultimate DOOM (1995)**
++ Microsoft MS-DOS/**/Windows 3.11 For Workgroups (1994).BAK**
++ Microsoft MS-DOS/**/Windows 3.11 For Workgroups (1994)**
++ Microsoft MS-DOS/**/Windows 95 (1995) Empty**
++ Microsoft MS-DOS/**/Windows 95 (1995) Risk**
++ Microsoft MS-DOS/**/WindowsForBobby**
++ Microsoft MS-DOS/**/Wolfenstein 3D (1992)**
+- Microsoft MS-DOS/**/WWF in Your House (1996)**
+- Microsoft MS-DOS/**/Zoom**

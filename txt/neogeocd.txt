@@ -1,0 +1,93 @@
+- SNK Neo Geo CD/**/2020 Super Baseball**
+- SNK Neo Geo CD/**/3 Count Bout**
+- SNK Neo Geo CD/**/ADK World**
+- SNK Neo Geo CD/**/Aggressors of Dark Kombat**
+- SNK Neo Geo CD/**/Alpha Mission II**
+- SNK Neo Geo CD/**/Art of Fighting**
+- SNK Neo Geo CD/**/Art of Fighting 2**
++ SNK Neo Geo CD/**/Art of Fighting 3 - The Path of the Warrior**
+- SNK Neo Geo CD/**/Bang Bang Busters**
++ SNK Neo Geo CD/**/Baseball Stars 2**
+- SNK Neo Geo CD/**/Baseball Stars Professional**
+- SNK Neo Geo CD/**/Blue's Journey**
+- SNK Neo Geo CD/**/Breakers**
+- SNK Neo Geo CD/**/Burning Fight**
+- SNK Neo Geo CD/**/Chotetsu Brikin'ger Iron Clad**
+- SNK Neo Geo CD/**/Crossed Swords**
+- SNK Neo Geo CD/**/Crossed Swords II**
+- SNK Neo Geo CD/**/Cyber-Lip**
+- SNK Neo Geo CD/**/Double Dragon**
+- SNK Neo Geo CD/**/Fatal Fury - The Battle of Fury**
+- SNK Neo Geo CD/**/Fatal Fury 2**
+- SNK Neo Geo CD/**/Fatal Fury 3 - Road to the Final Victory**
+- SNK Neo Geo CD/**/Fatal Fury Special**
+- SNK Neo Geo CD/**/Football Frenzy**
+- SNK Neo Geo CD/**/Galaxy Fight - Universal Warriors**
+- SNK Neo Geo CD/**/Ghost Pilots**
+- SNK Neo Geo CD/**/Joy Joy Kid**
+- SNK Neo Geo CD/**/Kabuki Klash**
+- SNK Neo Geo CD/**/Karnov's Revenge**
+- SNK Neo Geo CD/**/King of Fighters '94, The**
+- SNK Neo Geo CD/**/King of Fighters '95, The**
++ SNK Neo Geo CD/**/King of Fighters '96, The**
+- SNK Neo Geo CD/**/King of Fighters '97, The**
++ SNK Neo Geo CD/**/King of Fighters '98, The - The Slugfest**
+- SNK Neo Geo CD/**/King of Fighters '99, The - Millennium Battle**
+- SNK Neo Geo CD/**/King of the Monsters 2 - The Next Thing**
++ SNK Neo Geo CD/**/Last Blade 2, The**
+- SNK Neo Geo CD/**/Last Blade, The**
+- SNK Neo Geo CD/**/Last Hope**
++ SNK Neo Geo CD/**/Last Resort**
+- SNK Neo Geo CD/**/League Bowling**
+- SNK Neo Geo CD/**/Magical Drop 2**
++ SNK Neo Geo CD/**/Magician Lord**
++ SNK Neo Geo CD/**/Metal Slug**
++ SNK Neo Geo CD/**/Metal Slug 2**
++ SNK Neo Geo CD/**/Mutation Nation**
+- SNK Neo Geo CD/**/NAM-1975**
++ SNK Neo Geo CD/**/Neo DriftOut - New Technology**
++ SNK Neo Geo CD/**/Neo Turf Masters**
+- SNK Neo Geo CD/**/Ninja Combat**
+- SNK Neo Geo CD/**/Ninja Commando**
+- SNK Neo Geo CD/**/Ninja Master's Haou Ninpou-Chou**
+- SNK Neo Geo CD/**/Oshidashi Zintrick**
+- SNK Neo Geo CD/**/OverTop**
+- SNK Neo Geo CD/**/Pleasure Goal**
+- SNK Neo Geo CD/**/Power Spikes II**
++ SNK Neo Geo CD/**/Pulstar**
++ SNK Neo Geo CD/**/Puzzle Bobble**
+- SNK Neo Geo CD/**/Ragnagard**
+- SNK Neo Geo CD/**/Rally Chase**
+- SNK Neo Geo CD/**/Real Bout Fatal Fury**
+- SNK Neo Geo CD/**/Real Bout Fatal Fury 2 - The Newcomers**
+- SNK Neo Geo CD/**/Real Bout Fatal Fury Special**
+- SNK Neo Geo CD/**/Riding Hero**
+- SNK Neo Geo CD/**/Robo Army**
+- SNK Neo Geo CD/**/Samurai Shodown**
+- SNK Neo Geo CD/**/Samurai Shodown II**
+- SNK Neo Geo CD/**/Samurai Shodown III**
++ SNK Neo Geo CD/**/Samurai Shodown IV - Amakusa's Revenge**
+- SNK Neo Geo CD/**/Samurai Showdown RPG**
+- SNK Neo Geo CD/**/Savage Reign**
+- SNK Neo Geo CD/**/Sengoku**
+- SNK Neo Geo CD/**/Sengoku 2**
+- SNK Neo Geo CD/**/Soccer Brawl**
+- SNK Neo Geo CD/**/Sonic Wings 2**
+- SNK Neo Geo CD/**/Sonic Wings 3**
+- SNK Neo Geo CD/**/Stakes Winner - GI Kanzen Seiha Heno Machi**
+- SNK Neo Geo CD/**/Street Hoop**
+- SNK Neo Geo CD/**/Super Sidekicks**
+- SNK Neo Geo CD/**/Super Sidekicks 2 - The World Championship**
++ SNK Neo Geo CD/**/Super Sidekicks 3 - The Next Glory**
+- SNK Neo Geo CD/**/Super Spy, The**
++ SNK Neo Geo CD/**/Top Hunter - Roddy & Cathy**
+- SNK Neo Geo CD/**/Top Player's Golf**
+- SNK Neo Geo CD/**/Treasure of The Caribbean**
++ SNK Neo Geo CD/**/Twinkle Star Sprites**
++ SNK Neo Geo CD/**/Viewpoint**
+- SNK Neo Geo CD/**/Voltage Fighter Gowcaizer**
++ SNK Neo Geo CD/**/Windjammers**
+- SNK Neo Geo CD/**/World Heroes**
+- SNK Neo Geo CD/**/World Heroes 2**
+- SNK Neo Geo CD/**/World Heroes 2 Jet**
+- SNK Neo Geo CD/**/World Heroes Perfect**

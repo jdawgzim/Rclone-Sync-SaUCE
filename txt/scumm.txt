@@ -1,0 +1,119 @@
+- ScummVM/**/3 Skulls of the Toltecs**
+- ScummVM/**/Amazon - Guardians of Eden**
+- ScummVM/**/Bargon Attack**
++ ScummVM/**/Beavis and Butt-head in Virtual Stupidity**
++ ScummVM/**/Beneath a Steel Sky**
+- ScummVM/**/Black Cauldron**
+- ScummVM/**/Bud Tucker in Double Trouble**
++ ScummVM/**/Castle of Dr. Brain**
+- ScummVM/**/Codename Iceman**
+- ScummVM/**/Conquests of Camelot**
+- ScummVM/**/Conquests of the Longbow - The Legend of Robin Hood**
+- ScummVM/**/Crazy Nicks Picks King Graham's Board Game Challenge**
+- ScummVM/**/Crazy Nicks Picks Leisure Suit Larrys Casino**
+- ScummVM/**/Crazy Nicks Picks Parlor Games with Laura Bow**
+- ScummVM/**/Crazy Nicks Picks Robin Hoods Game Of Skill And Chance**
+- ScummVM/**/Crazy Nicks Picks Roger Wilcos Spaced Out Game Pack**
+- ScummVM/**/Cruise for a Corpse**
++ ScummVM/**/Day Of The Tentacle**
++ ScummVM/**/Discworld 1**
+- ScummVM/**/Discworld 2**
+- ScummVM/**/Donald Duck's Playground**
+- ScummVM/**/Draci Historie**
+- ScummVM/**/Drascula The Vampire Strikes Back**
++ ScummVM/**/Dreamweb**
+- ScummVM/**/EcoQuest 1 - The Search for Cetus**
+- ScummVM/**/EcoQuest 2 - Lost Secret of the Rainforest**
+- ScummVM/**/Eye of the Beholder II - The Legend of Darkmoon**
+- ScummVM/**/Eye of the Beholder**
+- ScummVM/**/Fatty Bear's Birthday Surprise**
+- ScummVM/**/Fatty Bear's Funpack**
+- ScummVM/**/Flight of the Amazon Queen**
+- ScummVM/**/Freddy Pharkas - Frontier Pharmacist**
++ ScummVM/**/Full Throttle**
+- ScummVM/**/Future Wars**
++ ScummVM/**/Gabriel Knight 2 The Beast Within**
++ ScummVM/**/Gabriel Knight Sins Of The Fathers**
++ ScummVM/**/Gnap**
+- ScummVM/**/Gobliiins 1**
+- ScummVM/**/Gobliins 2**
+- ScummVM/**/Goblins 3**
+- ScummVM/**/Gold Rush**
++ ScummVM/**/Hoyle Official Book Of Games Volume 1**
++ ScummVM/**/I Have No Mouth and I Must Scream**
++ ScummVM/**/Indiana Jones and the Last Crusade**
+- ScummVM/**/Inherit the Earth - Quest for the Orb**
++ ScummVM/**/Island of Dr. Brain**
+- ScummVM/**/Jones In The Fast Lane**
+- ScummVM/**/Lands of Lore - The Throne of Chaos**
+- ScummVM/**/Laura Bow 1 - The Colonels Bequest**
+- ScummVM/**/Laura Bow 2 - The Dagger of Amon-Ra**
+- ScummVM/**/Leather Goddesses of Phobos 2**
++ ScummVM/**/Living Books - Aesops Fable - Tortoise and the Hare**
++ ScummVM/**/Living Books - Arthurs Birthday**
++ ScummVM/**/Living Books - Arthurs Teacher Trouble**
++ ScummVM/**/Living Books - Berenstain Bears - Get In a Fight**
++ ScummVM/**/Living Books - Berenstain Bears - In the Dark**
++ ScummVM/**/Living Books - Dr Seuss - Green Eggs and Ham**
++ ScummVM/**/Living Books - Dr Seuss ABC**
++ ScummVM/**/Living Books - Harry and the Haunted House**
++ ScummVM/**/Living Books - Mercer Meyer - Just Grandma and Me**
++ ScummVM/**/Living Books - Mercer Meyer - Little Monster at School**
++ ScummVM/**/Living Books - Ruffs Bone**
++ ScummVM/**/Living Books - Sheila Rae The Brave**
++ ScummVM/**/Living Books - Stellaluna**
++ ScummVM/**/Living Books - The New Kid on the Block**
++ ScummVM/**/Loom**
+- ScummVM/**/Lost in Time**
+- ScummVM/**/Lure of the Temptress**
++ ScummVM/**/Magic Tales - Baba Yaga and the Magic Geese**
++ ScummVM/**/Magic Tales - Imo and The King**
++ ScummVM/**/Magic Tales - Liam Finds a Story**
++ ScummVM/**/Magic Tales - Sleeping Cubs Test of Courage**
++ ScummVM/**/Magic Tales - The Little Samurai**
++ ScummVM/**/Magic Tales - The Princess and the Crab**
+- ScummVM/**/Manhunter 1 - New York**
+- ScummVM/**/Manhunter 2 - San Francisco**
++ ScummVM/**/Maniac Mansion**
+- ScummVM/**/Mickey's Space Adventure**
++ ScummVM/**/Mixed Up Fairy Tales**
++ ScummVM/**/Mixed Up Mother Goose**
++ ScummVM/**/Myst**
+- ScummVM/**/Mystery House**
+- ScummVM/**/Nippon Safes Inc**
+- ScummVM/**/Peppers Adventures In Time**
+- ScummVM/**/Quest for Glory 1 - So You Want to be a Hero (VGA Remake)**
+- ScummVM/**/Quest for Glory 1 - So You Want to be a Hero**
+- ScummVM/**/Quest for Glory 2 - Trial by Fire**
++ ScummVM/**/Quest for Glory 3 - The Wages of War**
+- ScummVM/**/Quest for Glory 4 - Shadows of Darkness**
++ ScummVM/**/Return to Ringworld**
++ ScummVM/**/Return to Zork**
++ ScummVM/**/Ringworld - Revenge of the Patriarch**
+- ScummVM/**/Riven**
++ ScummVM/**/Sam and Max Hit the Road**
+- ScummVM/**/Sfinx v1.1**
+- ScummVM/**/Shivers**
+- ScummVM/**/Soltys**
+- ScummVM/**/Space Quest 1 - The Sarien Encounter**
+- ScummVM/**/Space Quest 2 - Vohaul's Revenge**
+- ScummVM/**/Space Quest 3 - The Pirates of Pestulon**
++ ScummVM/**/Space Quest 4 - Roger Wilco and the Time Rippers**
+- ScummVM/**/Space Quest 5 - The Next Mutation**
+- ScummVM/**/Space Quest 6 - The Spinal Frontier**
+- ScummVM/**/TeenAgent**
+- ScummVM/**/The Bizarre Adventures of Woodruff and the Schnibble of Azimuth**
++ ScummVM/**/The Dig**
++ ScummVM/**/The Legend of Kyrandia 1**
++ ScummVM/**/The Legend of Kyrandia 2 The Hand of Fate**
++ ScummVM/**/The Legend of Kyrandia 3 Malcolm's Revenge**
+- ScummVM/**/The Manhole**
+- ScummVM/**/Touche - The Adventures of the Fifth Musketeer**
+- ScummVM/**/Troll's Tale**
+- ScummVM/**/Urban Runner**
+- ScummVM/**/Waxworks**
+- ScummVM/**/Ween The Prophecy**
++ ScummVM/**/Winnie the Pooh in the Hundred Acre Wood**
+- ScummVM/**/Zak McKracken and the Alien Mindbenders**
++ ScummVM/**/Zork - Grand Inquisitor**
++ ScummVM/**/Zork Nemesis - The Forbidden Lands**
