@@ -2,7 +2,7 @@
 Use Rclone sync to shrink down some of the sauces to fit on a smaller USB drive.
 
 ## Resauce the OnesaUCE with Rclone
-These instructions are written for Windows but rclone sync works in other OSes too. I use Rclone-Sync-SaUCE to fit more systems on a smaller USB flash drive for my AtGames Legends Ultimate Arcade. This is written for One Sauce v2 but can be easily adjusted to work with other rom/emulator builds.
+These instructions are written for Windows but rclone sync works in other OSes too. I use Rclone-Sync-SaUCE to fit more systems on a smaller USB flash drive for my AtGames Legends Ultimate Arcade. This is written for One Sauce v2 but can be easily adjusted to work with other rom/emulator builds. Disclaimer: Rclone can delete and overwrite things so use this at your own risk.
 
 TLDR: Basically create a Rclone filter list to use with `rclone sync` command to filter out roms and their associated artwork/videos.
 
@@ -40,3 +40,6 @@ TLDR: Basically create a Rclone filter list to use with `rclone sync` command to
 - `--delete-excluded` forces excluded files to be removed in destination
 - Filter lists are case sensitive
 - !, &, $, #, etc. are bad so delete or replace with ?
+
+## Linux, iOS, Bash
+You can easily get this to work in a Bash console. Convert the Batch files to work with Bash scripting instead. Just use `cat` instead of `type`, `mv` instead of `move` and change backslashes for directories to forward slashes.
