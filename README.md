@@ -24,8 +24,8 @@ TLDR: Basically create a Rclone filter list to use with "rclone sync" command to
 	2. \s\\[[^)]*\\] is a regex to find things in square brackets
 	3.  https://regex-generator.olafneumann.org/
 10. Edit base_to_flash.bat and collection_to_flash.bat to specify the correct flash directory. Replace \<flash drive letter\> with the correct flash drive letter in the batch files
-11. Use base_to_flash.bat to move your main files to your flash drive.
-12. Use collection_to_flash.bat to move your rom files to your flash drive.
+11. Use [base_to_flash.bat](https://github.com/jdawgzim/Rclone-Sync-SaUCE/blob/main/base_to_flash.bat) to move your main files to your flash drive.
+12. Use [collection_to_flash.bat](https://github.com/jdawgzim/Rclone-Sync-SaUCE/blob/main/collection_to_flash.bat) to move your rom files to your flash drive.
 13. Check the log files to see if it looks right.
 14. Remove --dry-run from the sync commands in the batch files when it seems like it's work right.
 15.WizTree (or Windirstat) is great way to analyze the results
