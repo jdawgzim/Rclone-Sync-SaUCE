@@ -28,7 +28,7 @@ TLDR: Basically create a Rclone filter list to use with `rclone sync` command to
 12. Use [collection_to_flash.bat](https://github.com/jdawgzim/Rclone-Sync-SaUCE/blob/main/collection_to_flash.bat) to move your rom files to your flash drive.
 13. Check the log files to see if it looks right.
 14. Remove `--dry-run` from the sync commands in the batch files when it seems like it's work right.
-15.WizTree (or Windirstat) is great way to analyze the results
+15. WizTree (or Windirstat) is great way to analyze the results
 
 ## Rclone Gotchas:
 - Have to use forward slashes most of the time
