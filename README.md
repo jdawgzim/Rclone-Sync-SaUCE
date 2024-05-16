@@ -40,6 +40,8 @@ TLDR: Basically create a Rclone filter list to use with `rclone sync` command to
 - `--delete-excluded` forces excluded files to be removed in destination
 - Filter lists are case sensitive
 - !, &, $, #, etc. are bad so delete or replace with ?
+- Rclone filters work top-down so...
+- A short rom name like `- Commodore Amiga/**/pac-man**` might match more then you want so move it lower on the list.
 
 ## Linux, iOS, Bash
 You can easily get this to work in a Bash console. Convert the Batch files to work with Bash scripting instead. Just use `cat` instead of `type`, `mv` instead of `move` and change backslashes for directories to forward slashes.
