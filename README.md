@@ -9,7 +9,7 @@ TLDR: Basically create a Rclone filter list to use with `rclone sync` command to
 1. Create a tempmain folder on your Windows PC. Create three folders: `onesauce2`, `txt` and `old`.
 2. Put rclone.exe in the tempmain folder or install rclone so it can be executed anywhere.
 3. Combine all onesauce version 2 downloads into `onesauce2` folder
-4. Output list of each rom pack. (Some of these filter txt files are included above in the txt folder) e.g.
+4. Output list of each rom pack. (Some of these filter txt files are included above in the [txt](https://github.com/jdawgzim/Rclone-Sync-SaUCE/tree/main/txt) folder) e.g.
 	1. `dir /B "onesauce2\content\retrofe\collections\Daphne\roms" > txt\daphne.txt`
 	2. `dir /B "OneSauce2\content\retrofe\collections\Sony PSP Minis\roms\*.CSO" > txt\pspmini.txt`
 5. format lists according to https://rclone.org/filtering/ Use + or - at beginiing of each line to add or remove. Use **  to specify etc. e.g.
